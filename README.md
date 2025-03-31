@@ -4,7 +4,7 @@ Image segmentation with U-Net using the Oxford-IIIT Pet dataset.
 # About the project
 # image-segmentation-with-unet
 Image segmentation with U-Net using the Oxford-IIIT Pet dataset.
-This is a Google Colab notebook to demonstrate image segmentation with U-Net using the Oxford-IIIT Pet dataset. The data is first preprocessed and an enhanced U-Net architecture is used to implement the model for the semantic segmentation of images. The model performs fairly well and achieves a test accuracy of about 91% and a Mean IoU of 0.7681, the model demonstrates strong overall segmentation capability.
+This is a Google Colab notebook to demonstrate image segmentation with U-Net using the Oxford-IIIT Pet dataset. The data is first preprocessed and an enhanced U-Net architecture is used to implement the model for the semantic segmentation of images. The model performs fairly well and achieves a test accuracy of about 91% and a Mean Intersection over Union (IoU) of 0.7681, the model demonstrates strong overall segmentation capability.
 
 # Tools Used
 Tools and libraries used in this project include TensorFlow, Keras, Matplotlib, and NumPy.
