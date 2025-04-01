@@ -21,4 +21,4 @@ The most important point of reference for the project is TensorFlow's tutorial o
 # Additional Notes
 1. The dataset is available [here](https://www.robots.ox.ac.uk/~vgg/data/pets/). Alternatively, the Oxford-IIIT Pet dataset is also available via [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/oxford_iiit_pet). If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
 2. The project is a basic one in nature and is not currently being maintained.
-3. [Here](https://researchguy.in/image-segmentation-using-u-net/) is the blog post covering this work.
+3. [Here](https://researchguy.in/image-segmentation-with-u-net-and-tensorflow/) is the blog post covering this work.
